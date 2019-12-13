@@ -1,4 +1,4 @@
-name 'tomcat'
+name 'cookbooks'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
